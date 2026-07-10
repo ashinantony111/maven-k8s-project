@@ -85,31 +85,31 @@ Web Application
 
 ## Amazon EKS Cluster
 
-![EKS Cluster](screenshots/eks-cluster.png)
+screenshots/1.eks-cluster.png
 
 ---
 
 ## Kubernetes Worker Nodes
 
-![Nodes](screenshots/kubernetes-nodes.png)
+screenshots/2.kubernetes-nodes.png
 
 ---
 
 ## Jenkins CI/CD Pipeline
 
-![Pipeline](screenshots/jenkins-pipeline.png)
+screenshots/3.jenkins-pipeline.png
 
 ---
 
 ## Kubernetes Deployment
 
-![Deployment](screenshots/kubernetes-deployment.png)
+screenshots/4.kubernetes-deployment.png
 
 ---
 
 ## Application Running
 
-![Application](screenshots/application.png)
+screenshots/5.application.png
 
 ---
 
